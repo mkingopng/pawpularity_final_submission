@@ -133,3 +133,4 @@ dmypy.json
 /experiment_7/models/
 /data/
 /clean_data/
+.idea/
