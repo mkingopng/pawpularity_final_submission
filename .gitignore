@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/experiment_7/checkpoints/
+/experiment_3/models/
+/experiment_3/checkpoints/
+/experiment_7/models/
+/data/
+/clean_data/
