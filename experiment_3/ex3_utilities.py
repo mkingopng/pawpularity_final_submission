@@ -46,6 +46,3 @@ print(train_df['norm_score'])
 im = Image.open(train_df['path'][1])  # print an image to have a look
 width, height = im.size
 print(width, height)
-print(im)  # fix_me
-
-
